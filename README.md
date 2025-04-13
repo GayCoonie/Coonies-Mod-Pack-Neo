@@ -15,15 +15,23 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Buffoonery by [pinkmaggit-hub](https://github.com/pinkmaggit-hub) ([GitHub Repo](https://github.com/pinkmaggit-hub/Buffoonery))
 
+- Bunco by [jumbocarrot0](https://github.com/jumbocarrot0) ([GitHub Repo](https://github.com/jumbocarrot0/Bunco))
+
 - CardSleeves by [larswijn](https://github.com/larswijn) ([GitHub Repo](https://github.com/larswijn/CardSleeves))
 
 - Cardsauce by [BarrierTrio](https://github.com/BarrierTrio) ([GitHub Repo](https://github.com/BarrierTrio/Cardsauce))
 
 - ClipsJokers by [eclipsedsunrise](https://github.com/eclipsedsunrise) ([GitHub Repo](https://github.com/eclipsedsunrise/ClipsJokers))
 
+- Cosmos by [neatoqueen](https://github.com/neatoqueen) ([GitHub Repo](https://github.com/neatoqueen/Cosmos))
+
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/DebugPlus))
 
 - Galdur by [Eremel](https://github.com/Eremel) ([GitHub Repo](https://github.com/Eremel/Galdur))
+
+- GardenVarietyJokers by [Hyper314](https://github.com/Hyper314) ([GitHub Repo](https://github.com/Hyper314/GardenVarietyJokers))
+
+- JokerHub by [sup3p](https://github.com/sup3p) ([GitHub Repo](https://github.com/sup3p/JokerHub))
 
 - kcvanilla by [kcgidw](https://github.com/kcgidw) ([GitHub Repo](https://github.com/kcgidw/kcvanilla))
 
@@ -32,6 +40,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - Malverk by [Eremel](https://github.com/Eremel) ([GitHub Repo](https://github.com/Eremel/Malverk))
 
 - Maximus by [the-Astra](https://github.com/the-Astra) ([GitHub Repo](https://github.com/the-Astra/Maximus))
+
+- Mistigris by [astrapboy](https://github.com/astrapboy) ([GitHub Repo](https://github.com/astrapboy/Mistigris))
 
 - MoreFluff by [notmario](https://github.com/notmario) ([GitHub Repo](https://github.com/notmario/MoreFluff))
 
@@ -53,6 +63,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - SDM_0's Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/SDM_0-s-Stuff))
 
+- Snow-s-Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
+
 - Steammodded by [Steamodded](https://github.com/Steamodded) ([GitHub Repo](https://github.com/Steamodded/smods))
 
 - Talisman by [SpectralPack](https://github.com/SpectralPack) ([GitHub Repo](https://github.com/SpectralPack/Talisman))
@@ -61,8 +73,9 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Trance by [SpectralPack](https://github.com/SpectralPack) ([GitHub Repo](https://github.com/SpectralPack/Trance))
 
-- yosbr-balatro by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/yosbr-balatro))
+- Warpzone by [frangnosquest](https://github.com/frangnosquest) ([GitHub Repo](https://github.com/frangnosquest/Warpzone))
 
+- yosbr-balatro by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/yosbr-balatro))
 
 ## Installatiom Instructions:
 IMake sure you've installed lovely. f you already have a 'Mods' folder, simply replace or combine it with the one provided here. I won't be able to really help much if you're using mods that aren't included, but this also isn't intended to be forced as a standalone experience. Make sure you don't end up with 2 copies of steammodded or any mod.
