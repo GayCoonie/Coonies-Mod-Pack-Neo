@@ -1,0 +1,8 @@
+return {
+	["JokeJokersActive"] = false,
+	["DoMoreLogging"] = false,
+	["SFXWhenTriggered"] = true,
+	["Experimentals"] = true,
+	["SFXWhenAdding"] = true,
+	["SFXWhenRemoving"] = true,
+}

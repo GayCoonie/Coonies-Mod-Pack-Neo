@@ -70,3 +70,18 @@
 [submodule "Mods/Plantain"]
 	path = Mods/Plantain
 	url = https://github.com/IcebergLettuce0/Plantain
+[submodule "Mods/GardenVarietyJokers"]
+	path = Mods/GardenVarietyJokers
+	url = https://github.com/Hyper314/GardenVarietyJokers
+[submodule "Mods/Mistigris"]
+	path = Mods/Mistigris
+	url = https://github.com/astrapboy/Mistigris
+[submodule "Mods/JokerHub"]
+	path = Mods/JokerHub
+	url = https://github.com/sup3p/JokerHub
+[submodule "Mods/Snow-s-Mods"]
+	path = Mods/Snow-s-Mods
+	url = https://github.com/RattlingSnow353/Snow-s-Mods
+[submodule "Mods/Warpzone"]
+	path = Mods/Warpzone
+	url = https://github.com/frangnosquest/Warpzone

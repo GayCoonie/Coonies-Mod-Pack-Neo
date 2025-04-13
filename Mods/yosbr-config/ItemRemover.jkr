@@ -1,0 +1,19 @@
+return {
+	["Disabled Things"] = {
+		["c_pluto_dx"] = false,
+		["c_ectoplasm_dx"] = false,
+		["c_sigil_dx"] = true,
+		["c_fam_cronus"] = false,
+		["c_wraith"] = true,
+		["v_glow_up"] = false,
+		["c_ouija_dx"] = false,
+		["c_ectoplasm"] = true,
+		["c_wraith_dx"] = true,
+		["c_fam_demeter"] = false,
+		["c_sigil"] = true,
+		["c_cere_planetx_gx"] = false,
+		["c_ouija"] = true,
+	},
+	["Presets"] = {
+	},
+}

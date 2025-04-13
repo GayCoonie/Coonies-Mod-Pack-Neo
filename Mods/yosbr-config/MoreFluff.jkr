@@ -1,0 +1,10 @@
+return {
+	["Colour Pack Music"] = false,
+	["Jokers"] = true,
+	["Colour Cards"] = false,
+	["Huger Joker"] = false,
+	["Music"] = true,
+	["45 Degree Rotated Tarot Cards"] = true,
+	["Achievements"] = true,
+	["Unfinished"] = false,
+}

@@ -1,0 +1,10 @@
+return {
+	["tags_enabled"] = true,
+	["vouchers_enabled"] = true,
+	["editions_enabled"] = true,
+	["suits_enabled"] = true,
+	["paperclips_enabled"] = true,
+	["minor_arcana_enabled"] = true,
+	["enhancements_enabled"] = true,
+	["jokers_enabled"] = true,
+}

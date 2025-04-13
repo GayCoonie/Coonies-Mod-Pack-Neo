@@ -1,0 +1,33 @@
+return {
+	["texture_configs"] = {
+		["texpack_ortalab_alt_orta"] = {
+			["alt_tex_ortalab_alt_zodiac"] = true,
+		},
+		["texpack_moonspell_moonspell"] = {
+			["alt_tex_moonspell_tarot"] = true,
+			["alt_tex_moonspell_spectral"] = true,
+		},
+		["texpack_poke_pokestakes"] = {
+			["alt_tex_poke_chips"] = true,
+		},
+		["texpack_luna_lunas_enhancements"] = {
+			["alt_tex_luna_seal"] = true,
+			["alt_tex_luna_enhancements"] = true,
+			["alt_tex_luna_deck"] = true,
+		},
+		["texpack_csau_csau"] = {
+			["alt_tex_csau_tarot"] = true,
+			["alt_tex_csau_jokers"] = true,
+		},
+		["texpack_marvel_universe"] = {
+			["alt_tex_marvel_spectral"] = true,
+			["alt_tex_marvel_boosters"] = true,
+			["alt_tex_marvel_planets"] = true,
+		},
+	},
+	["selected"] = {
+		"texpack_marvel_universe",
+		"texpack_moonspell_moonspell",
+		"texpack_luna_lunas_enhancements",
+	},
+}

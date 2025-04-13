@@ -1,0 +1,9 @@
+return {
+	["initial_setup"] = false,
+	["artist_credits"] = true,
+	["initial_setup_demo_3"] = false,
+	["full_credits"] = false,
+	["enhancement_skip"] = false,
+	["loteria_skip"] = false,
+	["placeholders"] = false,
+}

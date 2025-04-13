@@ -1,0 +1,16 @@
+return {
+	["shiny_playing_cards"] = false,
+	["precise_energy"] = true,
+	["pokeballs"] = true,
+	["pokemon_altart"] = true,
+	["pokemon_discovery"] = false,
+	["no_evos"] = true,
+	["unlimited_energy"] = false,
+	["pokemon_only"] = false,
+	["pokemon_splash"] = false,
+	["pokemon_num"] = true,
+	["jokers_only"] = true,
+	["gen_one"] = false,
+	["poke_enable_animations"] = true,
+	["pokemon_aprilfools"] = false,
+}

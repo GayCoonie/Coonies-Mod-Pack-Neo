@@ -1,0 +1,4 @@
+return {
+	["april_fools_test"] = false,
+	["custom_sounds"] = false,
+}

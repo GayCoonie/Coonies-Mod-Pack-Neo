@@ -1,0 +1,5 @@
+return {
+	["show_info"] = true,
+	["memcard_perf"] = false,
+	["show_spc"] = false,
+}

@@ -1,0 +1,8 @@
+return {
+	["Jokers"] = true,
+	["Summoned Blinds"] = {
+	},
+	["Special Spectrals"] = false,
+	["Curses"] = false,
+	["Boss Blinds"] = false,
+}
