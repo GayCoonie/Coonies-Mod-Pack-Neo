@@ -1,4 +1,4 @@
-# Coonie's Balatro Modpack Neo
+&# Coonie's Balatro Modpack Neo
 
 ## Now Rebooted for Newcalc Compat. Hope to eventually bring everyting over, but for now I'll work wwith what I can get
 
@@ -12,6 +12,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 ### Included Mods:
 - All-In-Jest by [survovoaneend](https://github.com/survovoaneend) ([GitHub Repo](https://github.com/survovoaneend/All-In-Jest))
+
+- Braptro by [neddey](https://github.com/neddey) ([GitHub Repo](https://github.com/neddey/Braptro))
 
 - Buffoonery by [pinkmaggit-hub](https://github.com/pinkmaggit-hub) ([GitHub Repo](https://github.com/pinkmaggit-hub/Buffoonery))
 
@@ -45,6 +47,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - MoreFluff by [notmario](https://github.com/notmario) ([GitHub Repo](https://github.com/notmario/MoreFluff))
 
+- Mossed by [ScribbleIsError](https://github.com/ScribbleIsError) ([GitHub Repo](https://github.com/ScribbleIsError/Mossed))
+
 - my_balatro_mods by [betmma](https://github.com/betmma) ([GitHub Repo](https://github.com/betmma/my_balatro_mods))
 
 - NeatoJokers by [neatoqueen](https://github.com/neatoqueen) ([GitHub Repo](https://github.com/neatoqueen/NeatoJokers))
@@ -76,6 +80,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 - Warpzone by [frangnosquest](https://github.com/frangnosquest) ([GitHub Repo](https://github.com/frangnosquest/Warpzone))
 
 - yosbr-balatro by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/yosbr-balatro))
+
 
 ## Installatiom Instructions:
 IMake sure you've installed lovely. f you already have a 'Mods' folder, simply replace or combine it with the one provided here. I won't be able to really help much if you're using mods that aren't included, but this also isn't intended to be forced as a standalone experience. Make sure you don't end up with 2 copies of steammodded or any mod.
