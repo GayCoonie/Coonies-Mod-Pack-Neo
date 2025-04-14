@@ -88,3 +88,9 @@
 [submodule "Mods/Cosmos"]
 	path = Mods/Cosmos
 	url = https://github.com/neatoqueen/Cosmos
+[submodule "Mods/Mossed"]
+	path = Mods/Mossed
+	url = https://github.com/ScribbleIsError/Mossed
+[submodule "Mods/Braptro"]
+	path = Mods/Braptro
+	url = https://github.com/neddey/Braptro
