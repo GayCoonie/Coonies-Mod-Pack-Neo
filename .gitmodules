@@ -1,9 +1,6 @@
 [submodule "Mods/smods"]
 	path = Mods/smods
 	url = https://github.com/Steamodded/smods
-[submodule "Mods/Cardsauce"]
-	path = Mods/Cardsauce
-	url = https://github.com/BarrierTrio/Cardsauce
 [submodule "Mods/Prism"]
 	path = Mods/Prism
 	url = https://github.com/blazingulag/Prism
