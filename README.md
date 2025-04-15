@@ -29,6 +29,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/DebugPlus))
 
+- Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
+
 - Galdur by [Eremel](https://github.com/Eremel) ([GitHub Repo](https://github.com/Eremel/Galdur))
 
 - GardenVarietyJokers by [Hyper314](https://github.com/Hyper314) ([GitHub Repo](https://github.com/Hyper314/GardenVarietyJokers))
@@ -76,6 +78,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - TOGAPackBalatro by [TheOneGoofAli](https://github.com/TheOneGoofAli) ([GitHub Repo](https://github.com/TheOneGoofAli/TOGAPackBalatro))
 
 - Trance by [SpectralPack](https://github.com/SpectralPack) ([GitHub Repo](https://github.com/SpectralPack/Trance))
+
+- Victin's Collection by [VictinZero](https://github.com/VictinZero) ([GitHub Repo](https://github.com/VictinZero/balatro-victins-collection))
 
 - Warpzone by [frangnosquest](https://github.com/frangnosquest) ([GitHub Repo](https://github.com/frangnosquest/Warpzone))
 
