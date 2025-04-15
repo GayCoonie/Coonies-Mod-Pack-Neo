@@ -94,3 +94,11 @@
 [submodule "Mods/Braptro"]
 	path = Mods/Braptro
 	url = https://github.com/neddey/Braptro
+[submodule "Mods/balatro-victins-collection"]
+	path = Mods/balatro-victins-collection
+	url = https://github.com/VictinZero/balatro-victins-collection
+	branch = alpha
+[submodule "Mods/Familiar"]
+	path = Mods/Familiar
+	url = https://github.com/RattlingSnow353/Familiar
+	branch = BetterCalc-Fixes
