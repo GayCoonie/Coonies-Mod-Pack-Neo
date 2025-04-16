@@ -102,3 +102,9 @@
 	path = Mods/Familiar
 	url = https://github.com/RattlingSnow353/Familiar
 	branch = BetterCalc-Fixes
+[submodule "Mods/ExtraCredit"]
+	path = Mods/ExtraCredit
+	url = https://github.com/GuilloryCraft/ExtraCredit
+[submodule "Mods/Revos-Vault"]
+	path = Mods/Revos-Vault
+	url = https://github.com/Cdrvo/Revos-Vault---Balatro-Mod
