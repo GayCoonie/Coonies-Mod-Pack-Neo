@@ -108,3 +108,12 @@
 [submodule "Mods/Revos-Vault"]
 	path = Mods/Revos-Vault
 	url = https://github.com/Cdrvo/Revos-Vault---Balatro-Mod
+[submodule "Mods/KLGB76-Jokers"]
+	path = Mods/KLGB76-Jokers
+	url = https://github.com/KLGB76/KLGB76-s-Balatro-Joker-Pack
+[submodule "Mods/AzzysJokers"]
+	path = Mods/AzzysJokers
+	url = https://github.com/AstrumNativus/AzzysJokers
+[submodule "Mods/TVFsDecks"]
+	path = Mods/TVFsDecks
+	url = https://github.com/TVFLabs/TVFsDecks
