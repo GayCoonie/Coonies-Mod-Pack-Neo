@@ -117,3 +117,18 @@
 [submodule "Mods/TVFsDecks"]
 	path = Mods/TVFsDecks
 	url = https://github.com/TVFLabs/TVFsDecks
+[submodule "Mods/reverie"]
+	path = Mods/reverie
+	url = https://github.com/jumbocarrot0/reverie
+[submodule "Mods/Punchline"]
+	path = Mods/Punchline
+	url = https://github.com/gfsgfsPunchlineGuy/Punchline
+[submodule "Mods/FemtoLabsCollection"]
+	path = Mods/FemtoLabsCollection
+	url = https://github.com/SunsetQuasar/FemtoLabsCollection
+[submodule "Mods/bonus-jokers"]
+	path = Mods/bonus-jokers
+	url = https://github.com/Gaph-and-a-half/bonus-jokers
+[submodule "Mods/milatro-mod"]
+	path = Mods/milatro-mod
+	url = https://github.com/milankapitein/milatro-mod/
