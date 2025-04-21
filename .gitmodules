@@ -132,6 +132,15 @@
 [submodule "Mods/milatro-mod"]
 	path = Mods/milatro-mod
 	url = https://github.com/milankapitein/milatro-mod/
-[submodule "Lucky-Rabbit"]
-	path = Lucky-Rabbit
+[submodule "Mods/Lucky-Rabbit"]
+	path = Mods/Lucky-Rabbit
 	url = https://github.com/Trif3ctal/Lucky-Rabbit
+[submodule "Mods/JoeyJokers"]
+	path = Mods/JoeyJokers
+	url = https://github.com/quinbo007/JoeyJokers
+[submodule "Mods/Kingmaxthe2-Joker-Pack"]
+	path = Mods/Kingmaxthe2-Joker-Pack
+	url = https://github.com/Kingmaxthe2/Kingmaxthe2-Joker-Pack
+[submodule "Mods/pi-cubeds-jokers"]
+	path = Mods/pi-cubeds-jokers
+	url = https://github.com/pi-cubed-cat/pi_cubeds_jokers
