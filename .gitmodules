@@ -132,3 +132,6 @@
 [submodule "Mods/milatro-mod"]
 	path = Mods/milatro-mod
 	url = https://github.com/milankapitein/milatro-mod/
+[submodule "Lucky-Rabbit"]
+	path = Lucky-Rabbit
+	url = https://github.com/Trif3ctal/Lucky-Rabbit
