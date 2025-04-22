@@ -144,3 +144,12 @@
 [submodule "Mods/pi-cubeds-jokers"]
 	path = Mods/pi-cubeds-jokers
 	url = https://github.com/pi-cubed-cat/pi_cubeds_jokers
+[submodule "Mods/Handsome-Devils"]
+	path = Mods/Handsome-Devils
+	url = https://github.com/AlexanderAndersonAmenAmen/Handsome-Devils-Vanilla-mod-
+[submodule "Mods/luckyjimbos"]
+	path = Mods/luckyjimbos
+	url = https://github.com/MamiKeRiko/luckyjimbos
+[submodule "Mods/Emporium"]
+	path = Mods/Emporium
+	url = https://github.com/krokshut/Emporium
