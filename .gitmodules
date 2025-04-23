@@ -153,3 +153,9 @@
 [submodule "Mods/Emporium"]
 	path = Mods/Emporium
 	url = https://github.com/krokshut/Emporium
+[submodule "Mods/GARBSHIT"]
+	path = Mods/GARBSHIT
+	url = https://github.com/Gainumki/GARBSHIT
+[submodule ".Mods/therkledoodles"]
+	path = .Mods/therkledoodles
+	url = https://github.com/TherkLe/therkledoodles
