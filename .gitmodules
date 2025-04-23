@@ -159,3 +159,9 @@
 [submodule ".Mods/therkledoodles"]
 	path = .Mods/therkledoodles
 	url = https://github.com/TherkLe/therkledoodles
+[submodule "Mods/Unstable"]
+	path = Mods/Unstable
+	url = https://github.com/kirbio/UnStable/
+[submodule "Mods/UnstableEX"]
+	path = Mods/UnstableEX
+	url = https://github.com/kirbio/UnStableEX
