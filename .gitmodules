@@ -157,7 +157,7 @@
 	path = Mods/GARBSHIT
 	url = https://github.com/Gainumki/GARBSHIT
 [submodule ".Mods/therkledoodles"]
-	path = .Mods/therkledoodles
+	path = Mods/therkledoodles
 	url = https://github.com/TherkLe/therkledoodles
 [submodule "Mods/Unstable"]
 	path = Mods/Unstable
