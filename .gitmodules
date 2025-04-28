@@ -168,3 +168,9 @@
 [submodule "Mods/SarcPot"]
 	path = Mods/SarcPot
 	url = https://github.com/SarcPot/sarcpot-mod
+[submodule "Mods/bountiful"]
+	path = Mods/bountiful
+	url = https://github.com/threeofaband/bountiful
+[submodule "Mods/Rofflatro"]
+	path = Mods/Rofflatro
+	url = https://github.com/MamiKeRiko/Rofflatro
