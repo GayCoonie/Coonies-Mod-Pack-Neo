@@ -165,3 +165,6 @@
 [submodule "Mods/UnstableEX"]
 	path = Mods/UnstableEX
 	url = https://github.com/kirbio/UnStableEX
+[submodule "Mods/SarcPot"]
+	path = Mods/SarcPot
+	url = https://github.com/SarcPot/sarcpot-mod
