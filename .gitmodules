@@ -174,3 +174,9 @@
 [submodule "Mods/Rofflatro"]
 	path = Mods/Rofflatro
 	url = https://github.com/MamiKeRiko/Rofflatro
+[submodule "Mods/Hallucinations"]
+	path = Mods/Hallucinations
+	url = https://github.com/Rosocotta/Hallucinations
+[submodule "Mods/JankJonklers"]
+	path = Mods/JankJonklers
+	url = https://github.com/spikeof2010/JankJonklers
