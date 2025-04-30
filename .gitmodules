@@ -111,9 +111,6 @@
 [submodule "Mods/KLGB76-Jokers"]
 	path = Mods/KLGB76-Jokers
 	url = https://github.com/KLGB76/KLGB76-s-Balatro-Joker-Pack
-[submodule "Mods/AzzysJokers"]
-	path = Mods/AzzysJokers
-	url = https://github.com/AstrumNativus/AzzysJokers
 [submodule "Mods/TVFsDecks"]
 	path = Mods/TVFsDecks
 	url = https://github.com/TVFLabs/TVFsDecks
@@ -183,3 +180,9 @@
 [submodule "Mods/balatro-plus"]
 	path = Mods/balatro-plus
 	url = https://github.com/SomeCoder99/balatro-plus
+[submodule "Mods/FickleFox"]
+	path = Mods/FickleFox
+	url = https://github.com/1RedOne/FickleFox
+[submodule "Mods/stuffz"]
+	path = Mods/stuffz
+	url = https://github.com/miniscoped/stuffz
