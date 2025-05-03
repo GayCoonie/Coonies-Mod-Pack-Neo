@@ -186,3 +186,9 @@
 [submodule "Mods/stuffz"]
 	path = Mods/stuffz
 	url = https://github.com/miniscoped/stuffz
+[submodule "Mods/AetherJokers"]
+	path = Mods/AetherJokers
+	url = https://github.com/BustyCatbot/AetherJokers
+[submodule "TooManyDecks"]
+	path = Mods/TooManyDecks
+	url = https://github.com/Squidguset/TooManyDecks
