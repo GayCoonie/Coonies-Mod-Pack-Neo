@@ -1,0 +1,5 @@
+return {
+	["customBoosters"] = true,
+	["negativeBooster"] = true,
+	["customEditions"] = true,
+}

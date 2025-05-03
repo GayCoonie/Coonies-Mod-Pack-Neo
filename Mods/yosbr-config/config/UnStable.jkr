@@ -1,0 +1,25 @@
+return {
+	["joker"] = {
+		["shitpost"] = true,
+		["alter"] = false,
+		["vanilla"] = false,
+		["powerful"] = false,
+	},
+	["rank"] = {
+		["rank_decimal"] = false,
+		["rank_21"] = false,
+		["rank_binary"] = false,
+	},
+	["enh"] = {
+		["enh_custom"] = true,
+		["enh_disenh"] = false,
+	},
+	["gameplay"] = {
+		["edition_upgrade"] = false,
+		["music"] = true,
+		["new_spectrals"] = true,
+		["c_rebundant"] = true,
+		["seal_suit"] = true,
+		["c_aux"] = false,
+	},
+}
