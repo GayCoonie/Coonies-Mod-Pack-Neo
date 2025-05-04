@@ -22,9 +22,6 @@
 [submodule "Mods/kcvanilla"]
 	path = Mods/kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
-[submodule "Mods/Pokermon"]
-	path = Mods/Pokermon
-	url = https://github.com/InertSteak/Pokermon
 [submodule "Mods/Ortalab"]
 	path = Mods/Ortalab
 	url = https://github.com/Eremel/Ortalab
