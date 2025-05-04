@@ -192,3 +192,6 @@
 [submodule "TooManyDecks"]
 	path = Mods/TooManyDecks
 	url = https://github.com/Squidguset/TooManyDecks
+[submodule "Mods/Unjankify"]
+	path = Mods/Unjankify
+	url = https://github.com/blazingulag/Unjankify
