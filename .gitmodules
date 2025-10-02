@@ -22,9 +22,6 @@
 [submodule "Mods/kcvanilla"]
 	path = Mods/kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
-[submodule "Mods/Ortalab"]
-	path = Mods/Ortalab
-	url = https://github.com/Eremel/Ortalab
 [submodule "Mods/paperback"]
 	path = Mods/paperback
 	url = https://github.com/Balatro-Paperback/paperback
@@ -168,9 +165,6 @@
 [submodule "Mods/Rofflatro"]
 	path = Mods/Rofflatro
 	url = https://github.com/MamiKeRiko/Rofflatro
-[submodule "Mods/Hallucinations"]
-	path = Mods/Hallucinations
-	url = https://github.com/Rosocotta/Hallucinations
 [submodule "Mods/JankJonklers"]
 	path = Mods/JankJonklers
 	url = https://github.com/spikeof2010/JankJonklers
